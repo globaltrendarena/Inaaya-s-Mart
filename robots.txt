@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin.html
+Disallow: /admin-modules/
+Disallow: /workers/
+Disallow: /api/
+
+Sitemap: https://www.inaayasmart.com/sitemap.xml
