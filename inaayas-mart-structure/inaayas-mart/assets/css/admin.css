@@ -1,0 +1,13 @@
+/* Inaaya's Mart — Admin Dashboard Stylesheet */
+@import url("./main.css");
+
+.admin-shell {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  min-height: 100vh;
+}
+
+.admin-sidebar {
+  background: var(--color-primary);
+  color: #fff;
+}
